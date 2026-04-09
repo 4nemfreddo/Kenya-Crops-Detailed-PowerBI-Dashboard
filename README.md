@@ -21,6 +21,6 @@ This repository contains a fully interactive Power BI dashboard developed to ana
 3. If the dashboard uses an external data source, update the connection settings under *Transform Data > Data Source Settings*.
 4. To view the published version online, click the badge below (requires Power BI service access):
 
-   [![View on Power BI Service](https://app.powerbi.com/groups/6ed75a5e-9a31-4bdf-a429-03a87a0aed66/reports/b60ade21-e13a-4c9b-b784-ef72fb9f2e25?ctid=c95984e8-6a70-4512-a440-1c79bca9cc37&pbi_source=linkShare)
+   [![View on Power BI Service]("https://app.powerbi.com/groups/6ed75a5e-9a31-4bdf-a429-03a87a0aed66/reports/b60ade21-e13a-4c9b-b784-ef72fb9f2e25?ctid=c95984e8-6a70-4512-a440-1c79bca9cc37&pbi_source=linkShare")
 
 > **Note:** For security, some data sources may be removed from the public `.pbix` file.
